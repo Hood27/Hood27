@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hood27
+- 👋 Hi, I’m @Hood27 (Anh Khoa)
 - 👀 I’m interested in wows
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on myself
